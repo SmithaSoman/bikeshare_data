@@ -1,3 +1,9 @@
+"""
+This project uses python to understand U.S. bikeshare data. It creates an
+interactive environment which lets user chooses data and filter for a dataset
+from three cities (Chicago, New York City and Washington) to analyze.
+
+"""
 import time
 import pandas as pd
 import numpy as np
