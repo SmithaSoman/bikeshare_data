@@ -257,7 +257,7 @@ def main():
                     valid=0
         restart = input('\nWould you like to restart?(Y/N)\n')
         if restart.lower() not in ['yes','y','ye','yeah']:
-            print("Thanks for trying out our analysis on bikeshare data!Have a great day!")
+            print("Thanks for trying out our analysis on bikeshare data!Goodbye!")
             break
 
 
